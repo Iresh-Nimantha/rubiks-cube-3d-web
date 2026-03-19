@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Rubik\u0027s Cube Viewer",
+  "description": "A dedicated 3D viewer for the glass Rubik\u0027s Cube model.",
+  "requestFramePermissions": []
+}
